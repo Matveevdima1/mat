@@ -1,0 +1,15 @@
+C:\Users\ДимаВащеКласс\source\repos\коллекции\коллекции\bin\Debug\net6.0\коллекции.exe
+C:\Users\ДимаВащеКласс\source\repos\коллекции\коллекции\bin\Debug\net6.0\коллекции.deps.json
+C:\Users\ДимаВащеКласс\source\repos\коллекции\коллекции\bin\Debug\net6.0\коллекции.runtimeconfig.json
+C:\Users\ДимаВащеКласс\source\repos\коллекции\коллекции\bin\Debug\net6.0\коллекции.dll
+C:\Users\ДимаВащеКласс\source\repos\коллекции\коллекции\bin\Debug\net6.0\коллекции.pdb
+C:\Users\ДимаВащеКласс\source\repos\коллекции\коллекции\obj\Debug\net6.0\коллекции.csproj.AssemblyReference.cache
+C:\Users\ДимаВащеКласс\source\repos\коллекции\коллекции\obj\Debug\net6.0\коллекции.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДимаВащеКласс\source\repos\коллекции\коллекции\obj\Debug\net6.0\коллекции.AssemblyInfoInputs.cache
+C:\Users\ДимаВащеКласс\source\repos\коллекции\коллекции\obj\Debug\net6.0\коллекции.AssemblyInfo.cs
+C:\Users\ДимаВащеКласс\source\repos\коллекции\коллекции\obj\Debug\net6.0\коллекции.csproj.CoreCompileInputs.cache
+C:\Users\ДимаВащеКласс\source\repos\коллекции\коллекции\obj\Debug\net6.0\коллекции.dll
+C:\Users\ДимаВащеКласс\source\repos\коллекции\коллекции\obj\Debug\net6.0\refint\коллекции.dll
+C:\Users\ДимаВащеКласс\source\repos\коллекции\коллекции\obj\Debug\net6.0\коллекции.pdb
+C:\Users\ДимаВащеКласс\source\repos\коллекции\коллекции\obj\Debug\net6.0\коллекции.genruntimeconfig.cache
+C:\Users\ДимаВащеКласс\source\repos\коллекции\коллекции\obj\Debug\net6.0\ref\коллекции.dll
